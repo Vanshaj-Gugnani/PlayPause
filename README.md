@@ -63,6 +63,7 @@
 - `manifest.json`: Defines the extension's metadata and permissions.
 - `background.js`: Handles tab and application focus detection.
 - `content.js`: Injected into web pages to control video playback.
+- `popup.html`: Contains starting page.
 - `icons/`: Contains extension icons.
 
 ### Build & Test
