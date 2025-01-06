@@ -17,10 +17,10 @@
 
 ### Step 1: Clone or Download the Repository
 
-1. Go to the [PlayPause GitHub repository](https://github.com/yourusername/PlayPause).
+1. Go to the [PlayPause GitHub repository](https://github.com/Vanshaj-Gugnani/PlayPause).
 2. Click the **Code** button and select **Download ZIP**, or use the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PlayPause.git
+   git clone https://github.com/vanshaj-gugnani/PlayPause.git
    ```
 
 ### Step 2: Open Chrome Extensions Settings
@@ -44,7 +44,7 @@
 
 ## 💻 Usage
 
-1. Open any video on your favorite platform (e.g., YouTube, Vimeo).
+1. Open any video on YouTube.
 2. Play the video.
 3. Switch to another tab or application—the video will automatically pause.
 4. Return to the tab, and the video is ready to resume.
@@ -72,46 +72,13 @@
 
 ---
 
-## 🌟 Contributing
 
-We welcome contributions! Feel free to submit issues and pull requests to improve PlayPause.
-
-1. Fork the repository.
-2. Create a new branch for your feature/fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push them:
-   ```bash
-   git commit -m "Add your message here"
-   git push origin feature-name
-   ```
-4. Submit a pull request to the `main` branch.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🤝 Support
-
-If you find this project helpful, please ⭐ the repository and share it with others! For any issues or questions, feel free to open an issue on GitHub.
-
----
 
 ## 🖼️ Screenshots
 
-![PlayPause in Action](https://via.placeholder.com/800x400.png?text=PlayPause+Extension+Demo)
+![PlayPause in Action](./image.png)
 
 ---
 
-## 🙌 Acknowledgments
-
-Special thanks to the open-source community for inspiration and support. 
-
----
 
 Enjoy a more convenient video-watching experience with PlayPause! 🚀
